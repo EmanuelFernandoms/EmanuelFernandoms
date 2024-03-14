@@ -13,16 +13,7 @@ which is really what I love most and want to work on, I currently work with a fo
 
 
 ### Technologies and Tools
-<i class="devicon-html5-plain colored"></i>
-<i class="devicon-css3-plain-wordmark colored"></i>
-<i class="devicon-sass-original colored"></i>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<i class="devicon-php-plain colored"></i>
-<i class="devicon-mysql-plain-wordmark colored"></i>
-<i class="devicon-javascript-plain colored"></i>
-<i class="devicon-react-original-wordmark colored"></i>
-<i class="devicon-jquery-plain-wordmark colored"></i>
-<i class="devicon-bootstrap-plain-wordmark colored"></i>
+
 
 
 <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
