@@ -1,11 +1,15 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
           
-<h2>SOBRE MIM:</h2>
+<h2>PORTUGUÊS</h2>
+
+<h6>Sobre mim:</h6>
 
 <p>Sempre fui muito apaixonado por computadores, o que me fez procurar algo que me deixa-se feliz e motivado para trabalhar, até me encontrar na programação, descobrindo
 que realmente é o que eu mais amo e quero trabalhar, atualmente trabalho com foco no desenvolvimento web mas almejo espandir meus conhecimentos</p>
 
-<h2>ABOUT ME:</h2>
+<h2>INGLÊS</h2>
+
+<h6>About me:</h6>
 
 <p>I have always been very passionate about computers, which made me look for something that makes me happy and motivated to work, until I found myself in programming, discovering
 which is really what I love most and want to work on, I currently work with a focus on web development but I want to expand my knowledge</p>
