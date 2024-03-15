@@ -7,7 +7,7 @@
 <p>Sempre fui muito apaixonado por computadores, o que me fez procurar algo que me deixa-se feliz e motivado para trabalhar, até me encontrar na programação, descobrindo
 que realmente é o que eu mais amo e quero trabalhar, atualmente trabalho com foco no desenvolvimento web mas almejo espandir meus conhecimentos</p>
 
-<h2>INGLÊS</h2>
+<h2>ENGLISH</h2>
 
 <h6>About me:</h6>
 
