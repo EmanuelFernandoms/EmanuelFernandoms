@@ -4,15 +4,13 @@
 
 <h6>Sobre mim:</h6>
 
-<p>Sempre fui muito apaixonado por computadores, o que me fez procurar algo que me deixa-se feliz e motivado para trabalhar, até me encontrar na programação, descobrindo
-que realmente é o que eu mais amo e quero trabalhar, atualmente trabalho com foco no desenvolvimento web mas almejo espandir meus conhecimentos</p>
+<p>Desenvolvedor com experiência em aplicações web, APIs e organização de produtos digitais, atuando em projetos colaborativos envolvendo desenvolvimento, design e gestão de sistemas. Possui foco em experiência do usuário, aprendizado contínuo e desenvolvimento de soluções escaláveis.</p>
 
 <h2>ENGLISH</h2>
 
 <h6>About me:</h6>
 
-<p>I have always been very passionate about computers, which made me look for something that makes me happy and motivated to work, until I found myself in programming, discovering
-which is really what I love most and want to work on, I currently work with a focus on web development but I want to expand my knowledge</p>
+<p>Developer with experience in web applications, APIs, and digital product organization, working on collaborative projects involving software development, design, and systems management. Focused on user experience, continuous learning, and building scalable solutions.</p>
 
 
 
